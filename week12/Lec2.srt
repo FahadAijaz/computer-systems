@@ -1,0 +1,1959 @@
+1
+00:00:00,256 --> 00:00:06,400
+This material is made available to you by Robbie half of the University of Melbourne
+
+2
+00:00:06,656 --> 00:00:12,800
+Of the copyright act 1968 it may be subject to copyright for more information visit the university
+
+3
+00:00:13,056 --> 00:00:14,080
+Copyright website
+
+4
+00:00:38,144 --> 00:00:44,288
+Ok for those two are watching the recording of the reason I'm not saying anything is because we're busy filling the
+
+5
+00:00:44,544 --> 00:00:50,688
+If you'd like to fill in the SES yourself while you're waiting for the recording to that starts
+
+6
+00:00:50,944 --> 00:00:57,088
+Go for it now otherwise you fast forward until I move slide off this one onto the next one
+
+7
+00:00:57,344 --> 00:01:03,488
+Just out of interest how many people are still feeling in the SES at the moment perfect I'll give you another file so minutes
+
+8
+00:04:53,631 --> 00:04:59,775
+OK how many people still feeling in the SES
+
+9
+00:05:00,031 --> 00:05:06,175
+That's perfect ok
+
+10
+00:05:06,431 --> 00:05:12,575
+Today is just revision with both dunhelen me before we revised
+
+11
+00:05:12,831 --> 00:05:18,975
+122 hours long
+
+12
+00:05:19,231 --> 00:05:21,023
+One Mark per minute
+
+13
+00:05:21,279 --> 00:05:27,423
+Three parts first multiple choice
+
+14
+00:05:27,679 --> 00:05:33,823
+What size should be 10?
+
+15
+00:05:34,079 --> 00:05:40,223
+7 and then 9
+
+16
+00:05:40,479 --> 00:05:46,623
+6 to 12 bucks no face
+
+17
+00:05:49,183 --> 00:05:55,327
+Will be covering material from both of the subject
+
+18
+00:05:55,583 --> 00:05:59,935
+Because the mid-semester test carrying some of the mark for it
+
+19
+00:06:00,447 --> 00:06:06,591
+I don't expect you to read this but those what is zoom in this is what the front page will look like this explained
+
+20
+00:06:06,847 --> 00:06:08,639
+Change the format of everything
+
+21
+00:06:11,455 --> 00:06:17,599
+Ok so first well I'm going to revise what we've done in the second half
+
+22
+00:06:17,855 --> 00:06:22,207
+Revise what was done in the first half
+
+23
+00:06:23,231 --> 00:06:29,375
+Ok the first thing we started off with was The Cure communications transport layer security
+
+24
+00:06:29,631 --> 00:06:35,775
+We looked at a cheese we looked a little bit of Howard achieve
+
+25
+00:06:36,031 --> 00:06:42,175
+Some bits of cryptography in their transport security
+
+26
+00:06:42,431 --> 00:06:43,711
+At the start
+
+27
+00:06:43,967 --> 00:06:50,111
+Will you negotiate the cryptography of the system going to be using throughout the rest of the
+
+28
+00:06:50,367 --> 00:06:56,511
+The section a little bit
+
+29
+00:06:56,767 --> 00:07:01,631
+But it's made look as it is so that makes it
+
+30
+00:07:02,911 --> 00:07:09,055
+We look at some of the nuts and bolts of
+
+31
+00:07:09,311 --> 00:07:15,455
+Symmetric vs asymmetric code example symmetric is the
+
+32
+00:07:15,711 --> 00:07:17,759
+Encryption standard
+
+33
+00:07:18,015 --> 00:07:24,159
+Will there be a couple of modes of operation and then we look at an asymmetric version
+
+34
+00:07:24,415 --> 00:07:30,559
+RSA and we saw how they can be used for authentication of signatures and the really important forward to
+
+35
+00:07:36,959 --> 00:07:43,103
+Yep good internet layer
+
+36
+00:07:48,223 --> 00:07:51,039
+A datagram service
+
+37
+00:07:52,319 --> 00:07:58,463
+All of the different properties that has
+
+38
+00:07:58,719 --> 00:08:04,863
+Quality of service what do we mean by quality of service
+
+39
+00:08:05,119 --> 00:08:09,727
+How to achieve quality of service why doesn't everybody have good quality of service
+
+40
+00:08:09,983 --> 00:08:16,127
+Typically include
+
+41
+00:08:16,383 --> 00:08:22,527
+Or the day to achieve for the packet loss rate any measure of
+
+42
+00:08:22,783 --> 00:08:23,295
+Performance
+
+43
+00:08:24,575 --> 00:08:30,719
+I will look at the fact the big part of the problem comes because the Internet is a shared network
+
+44
+00:08:30,975 --> 00:08:34,559
+To give you a good quality of service
+
+45
+00:08:34,815 --> 00:08:40,959
+Doesn't necessarily get paid any money for it and those cases we typically get just best effort
+
+46
+00:08:42,239 --> 00:08:44,287
+But within a company
+
+47
+00:08:44,543 --> 00:08:45,823
+You might
+
+48
+00:08:46,079 --> 00:08:48,895
+Be willing to pay for
+
+49
+00:08:49,151 --> 00:08:50,687
+Better quality of service
+
+50
+00:08:52,223 --> 00:08:54,783
+Contact mpls
+
+51
+00:08:55,039 --> 00:09:01,183
+Locate the predominant networking technology at the moment is ipv4
+
+52
+00:09:01,439 --> 00:09:04,511
+What constitutes an ipv4 packet
+
+53
+00:09:05,535 --> 00:09:10,143
+And we spent a lot of time looking at what is an ipv4 address
+
+54
+00:09:10,399 --> 00:09:14,495
+And there a lot of people who are confused about missing you have any lol
+
+55
+00:09:14,751 --> 00:09:16,543
+Please ask questions
+
+56
+00:09:16,799 --> 00:09:19,871
+The address is divided into a network address
+
+57
+00:09:20,127 --> 00:09:21,663
+First remit
+
+58
+00:09:21,919 --> 00:09:25,759
+And then the host network for the last few bits
+
+59
+00:09:26,015 --> 00:09:27,295
+How many humans
+
+60
+00:09:27,551 --> 00:09:30,367
+That specified by the subnet mask
+
+61
+00:09:31,647 --> 00:09:35,487
+Written notation
+
+62
+00:09:35,743 --> 00:09:41,887
+But we can't necessarily say that some of these digits some of the decimal digits
+
+63
+00:09:43,935 --> 00:09:44,959
+The network
+
+64
+00:09:45,215 --> 00:09:47,007
+Networking host is done
+
+65
+00:09:47,263 --> 00:09:53,407
+In the binary representation of this and that often appears in the middle of one of these
+
+66
+00:09:53,663 --> 00:09:54,431
+Blocks
+
+67
+00:09:55,711 --> 00:09:59,807
+We look at the factory this notion of something
+
+68
+00:10:00,063 --> 00:10:02,879
+Network address and host address
+
+69
+00:10:03,135 --> 00:10:07,999
+Limits to sizes networks
+
+70
+00:10:09,279 --> 00:10:15,423
+Samsung consequences
+
+71
+00:10:15,679 --> 00:10:21,823
+Network you belong to because any given that work can be submited further into long layers
+
+72
+00:10:22,079 --> 00:10:22,591
+Network
+
+73
+00:10:25,151 --> 00:10:30,783
+Hi can we also look at Network address translation for Network address and Port translation
+
+74
+00:10:31,551 --> 00:10:37,695
+It works it works by using one address on one side of the net box on a prime
+
+75
+00:10:37,951 --> 00:10:41,023
+I need a different address on the other side
+
+76
+00:10:41,535 --> 00:10:47,679
+And the fact that we have to
+
+77
+00:10:47,935 --> 00:10:54,079
+The number which we know which which
+
+78
+00:10:54,335 --> 00:10:55,615
+IP address
+
+79
+00:10:55,871 --> 00:10:57,407
+Real written onto it
+
+80
+00:11:00,991 --> 00:11:04,575
+Because I was running out of addresses
+
+81
+00:11:05,343 --> 00:11:10,463
+Are we saw that ipv6 is beginning to take hold and that has no shortage of addresses
+
+82
+00:11:10,975 --> 00:11:13,279
+But that is likely to say around
+
+83
+00:11:13,791 --> 00:11:15,327
+Because it has other benefits
+
+84
+00:11:15,583 --> 00:11:19,423
+As well as big disadvantages one clear benefit is
+
+85
+00:11:19,679 --> 00:11:21,983
+Security
+
+86
+00:11:22,495 --> 00:11:24,799
+Because that is about as well
+
+87
+00:11:27,871 --> 00:11:34,015
+But nice thing about Nat is it allows independent if you have an address from ISP on the other
+
+88
+00:11:34,271 --> 00:11:39,903
+Network speed to put a new appliance in
+
+89
+00:11:40,671 --> 00:11:43,999
+Ok we also look at packet fragmentation
+
+90
+00:11:44,255 --> 00:11:50,399
+Packets fragmentation happens when we send a packet is too big for one of the hops on the
+
+91
+00:11:50,655 --> 00:11:53,727
+What are the point to point links on the network
+
+92
+00:11:53,983 --> 00:11:58,591
+We can break down them
+
+93
+00:12:00,127 --> 00:12:01,407
+Ipv4
+
+94
+00:12:01,919 --> 00:12:02,943
+Ipv6
+
+95
+00:12:03,455 --> 00:12:04,223
+We can't
+
+96
+00:12:04,479 --> 00:12:10,623
+Fragmentation too much hassle the host to work out how big
+
+97
+00:12:10,879 --> 00:12:16,511
+Big teddy for that we need to have path-mtu-discovery
+
+98
+00:12:17,535 --> 00:12:23,679
+And that is also widely used in ipv4 even though fragmentation is in principle possible
+
+99
+00:12:27,007 --> 00:12:33,151
+Ok lol that's looking at things
+
+100
+00:12:33,407 --> 00:12:34,943
+Very general network
+
+101
+00:12:35,199 --> 00:12:39,295
+Problems to work out where
+
+102
+00:12:39,551 --> 00:12:45,695
+Send the packet
+
+103
+00:12:45,951 --> 00:12:49,791
+Rooting is the process of deciding that
+
+104
+00:12:51,071 --> 00:12:57,215
+Look up a table
+
+105
+00:12:57,471 --> 00:12:58,751
+And send the packet out
+
+106
+00:13:05,663 --> 00:13:07,199
+Which is
+
+107
+00:13:07,455 --> 00:13:10,015
+Working out what that table should be in the first place
+
+108
+00:13:10,271 --> 00:13:11,807
+Calculating the routing table
+
+109
+00:13:12,319 --> 00:13:17,439
+Can we look at static routing adaptive routing flooding which is very inefficient
+
+110
+00:13:17,695 --> 00:13:23,839
+But effective and we spend a bit of time on shortest path algorithm where we view the network as a
+
+111
+00:13:24,095 --> 00:13:24,863
+Labelled graph
+
+112
+00:13:25,119 --> 00:13:31,263
+What do I mean by label graph has a name each of the edges have a way
+
+113
+00:13:31,519 --> 00:13:35,615
+Wait on it and we can look at trying to find the path through this
+
+114
+00:13:36,127 --> 00:13:38,943
+Which minimises the sum of those egg weights
+
+115
+00:13:41,503 --> 00:13:47,647
+There is only really touched on dijkstra's algorithm I do understand
+
+116
+00:13:47,903 --> 00:13:50,719
+Turn headlights works and how to apply it
+
+117
+00:13:51,999 --> 00:13:58,143
+So he's a simple example of algorithm if we going from a to d
+
+118
+00:13:58,399 --> 00:13:59,935
+Open up
+
+119
+00:14:00,959 --> 00:14:03,775
+The neighbours of our
+
+120
+00:14:05,055 --> 00:14:07,359
+Open up the neighbours of a
+
+121
+00:14:07,871 --> 00:14:14,015
+Opening up memes
+
+122
+00:14:14,527 --> 00:14:15,807
+The cheapest of those
+
+123
+00:14:16,063 --> 00:14:22,207
+And then we say we're going to close it now and it's Neighbours
+
+124
+00:14:25,535 --> 00:14:31,679
+Ok and we stop when we get to the destination
+
+125
+00:14:31,935 --> 00:14:35,007
+Is the destination that's going to the shortest path to the destination
+
+126
+00:14:36,543 --> 00:14:39,359
+I take that back
+
+127
+00:14:39,615 --> 00:14:43,199
+As soon as we have closed the destination that's why we can stop
+
+128
+00:14:44,991 --> 00:14:49,087
+Ok shortest path algorithm typical used
+
+129
+00:14:50,879 --> 00:14:53,439
+Network within an autonomous system
+
+130
+00:14:53,695 --> 00:14:59,839
+Remember is that part of the network which is owned and run by a single entity
+
+131
+00:15:00,607 --> 00:15:02,399
+Don't have to worry about
+
+132
+00:15:02,655 --> 00:15:08,799
+Sharing information with themselves
+
+133
+00:15:09,055 --> 00:15:11,871
+But the internet is owned by a bunch of people
+
+134
+00:15:12,383 --> 00:15:15,711
+And each other
+
+135
+00:15:15,967 --> 00:15:21,087
+Anything about the internal networks
+
+136
+00:15:21,855 --> 00:15:25,183
+I don't want to tell anybody else
+
+137
+00:15:25,439 --> 00:15:26,975
+How my network is arranged
+
+138
+00:15:27,231 --> 00:15:33,375
+Soap bgp is the way routing between these entities don't trust
+
+139
+00:15:33,631 --> 00:15:34,143
+Which other
+
+140
+00:15:34,655 --> 00:15:40,799
+And it's a much more complicated
+
+141
+00:15:41,055 --> 00:15:42,847
+Range of
+
+142
+00:15:43,103 --> 00:15:46,687
+Effective and
+
+143
+00:15:48,479 --> 00:15:54,111
+The most important is who paid
+
+144
+00:15:55,391 --> 00:16:01,535
+So we have this arrangement where is your a small ISP you contract out your work too
+
+145
+00:16:01,791 --> 00:16:07,935
+Does the hard work for you and that means you pay with
+
+146
+00:16:08,191 --> 00:16:14,335
+Directions
+
+147
+00:16:14,591 --> 00:16:20,223
+The time in Australia the link between Australia and America
+
+148
+00:16:26,367 --> 00:16:32,511
+Power here
+
+149
+00:16:32,767 --> 00:16:38,911
+Valley free roofing means we saw the valley free routines that we don't tend to
+
+150
+00:16:40,447 --> 00:16:42,239
+Amaroo to go up
+
+151
+00:16:42,495 --> 00:16:48,639
+And then down again and then up again and then down would never have one of these low it's near AIS is
+
+152
+00:16:48,895 --> 00:16:50,687
+Advertising groups
+
+153
+00:16:51,455 --> 00:16:52,991
+Revenue for
+
+154
+00:16:53,247 --> 00:16:58,623
+You never tell someone to get somewhere through you unless you get a buck for doing it
+
+155
+00:17:00,415 --> 00:17:05,023
+And that means we never go up and down the advertised-routes 2 hour
+
+156
+00:17:05,279 --> 00:17:06,303
+Clients
+
+157
+00:17:07,327 --> 00:17:13,471
+Ok IP multicasting
+
+158
+00:17:13,727 --> 00:17:17,823
+It's ideal if you have an event that a lot of people are going to watch
+
+159
+00:17:20,383 --> 00:17:26,527
+Soccer streaming live conference
+
+160
+00:17:26,783 --> 00:17:28,831
+Call video
+
+161
+00:17:29,087 --> 00:17:35,231
+These are allocated a huge chunk of addresses call the class D addresses from the old class
+
+162
+00:17:35,487 --> 00:17:37,791
+System
+
+163
+00:17:39,583 --> 00:17:42,655
+And yes we can have lots of these groups
+
+164
+00:17:45,727 --> 00:17:47,263
+That's basically I need to say that
+
+165
+00:17:47,775 --> 00:17:53,919
+We spent quite a bit of time on medium access control the Mac sublayer
+
+166
+00:18:00,575 --> 00:18:06,719
+And we saw that we can have point-to-point links you plug in an ethernet cable that gives
+
+167
+00:18:06,975 --> 00:18:13,119
+Connection to another device you can have broadcast links you turn on your computer and the wife
+
+168
+00:18:13,375 --> 00:18:19,263
+Wi-Fi is talking to anyone who's in range and in the case of broadcast channels
+
+169
+00:18:20,031 --> 00:18:26,175
+How serious are my work carrier sense motorbikes it's carriers
+
+170
+00:18:26,431 --> 00:18:28,479
+Listen
+
+171
+00:18:28,991 --> 00:18:35,135
+You're welcome to transmit Alexis
+
+172
+00:18:35,391 --> 00:18:37,183
+We detect collisions
+
+173
+00:18:37,439 --> 00:18:38,719
+Very efficient approach
+
+174
+00:18:39,231 --> 00:18:44,351
+But we can't do that in wireless so we have to use csma-ca instead
+
+175
+00:18:44,863 --> 00:18:47,935
+Multiple access with collision avoidance
+
+176
+00:18:49,983 --> 00:18:55,359
+Good we didn't really talk much about full and half duplex enough
+
+177
+00:18:55,615 --> 00:18:58,175
+Ok ethernet
+
+178
+00:18:58,431 --> 00:19:03,807
+Ethernet is the most widely used protocol that is called a link layer protocol
+
+179
+00:19:04,319 --> 00:19:08,671
+Or network layer
+
+180
+00:19:09,183 --> 00:19:15,327
+The classic version would you see a CD was clearly a link layer protocol
+
+181
+00:19:15,583 --> 00:19:20,191
+Point to point
+
+182
+00:19:25,311 --> 00:19:26,591
+No relation
+
+183
+00:19:27,103 --> 00:19:33,247
+To ethernet
+
+184
+00:19:33,503 --> 00:19:39,647
+Clear timer we said that was the old this is the new we migrated from having a single wire running around
+
+185
+00:19:39,903 --> 00:19:46,047
+Having a hump we all have a wire connected to it and then without the computer
+
+186
+00:19:46,303 --> 00:19:49,119
+Switch
+
+187
+00:19:51,423 --> 00:19:55,775
+Smooth migration from the original to the switch version
+
+188
+00:19:58,079 --> 00:20:04,223
+It WiFi we looked at a little bit about
+
+189
+00:20:04,479 --> 00:20:09,087
+Wi-Fi standards we looked at the idea of having multiple channels
+
+190
+00:20:09,343 --> 00:20:13,695
+Wi-Fi devices can choose from
+
+191
+00:20:13,951 --> 00:20:19,839
+But we really only use 3 of them because the rest of them have parcel overlaps with bad for us
+
+192
+00:20:21,119 --> 00:20:26,495
+Is Messi a very slightly about 11 security
+
+193
+00:20:29,055 --> 00:20:34,687
+OK what are the other tasks of the link layer
+
+194
+00:20:35,199 --> 00:20:37,503
+The Middle cast
+
+195
+00:20:37,759 --> 00:20:40,575
+How to get data from one point
+
+196
+00:20:40,831 --> 00:20:46,975
+To a slightly different point one hop along the way you need to make sure that you can work out how to get
+
+197
+00:20:47,231 --> 00:20:51,839
+Frames
+
+198
+00:20:52,095 --> 00:20:54,655
+Put the boundaries of the frame to the wrong spot
+
+199
+00:20:55,679 --> 00:21:01,823
+It's responsible for making sure that any errors that happened in the physical layer of which there are very very
+
+200
+00:21:02,079 --> 00:21:08,223
+Don't make it up to the next layer
+
+201
+00:21:08,479 --> 00:21:10,527
+Baby pics of you along the way
+
+202
+00:21:12,063 --> 00:21:18,208
+And the fundamental role of the is flow control
+
+203
+00:21:18,464 --> 00:21:24,608
+This station is slow processing the data for some reason it needs to tell this other states
+
+204
+00:21:24,864 --> 00:21:30,752
+Listen to flow down it's ending not to send until the receiver has room store the new packet
+
+205
+00:21:32,544 --> 00:21:38,688
+Ok like the transport Layer 3 clear layers
+
+206
+00:21:38,944 --> 00:21:45,088
+Frequent flyer can work in you can have an acknowledged connectilis service
+
+207
+00:21:47,648 --> 00:21:53,792
+Would you like to acknowledge connectionless service
+
+208
+00:21:55,584 --> 00:21:58,144
+Can you ask them to tell you I received it
+
+209
+00:21:58,400 --> 00:22:04,544
+But it's just a nice way to pack it's not part of a sequence and then you can have an acknowledged connection-oriented
+
+210
+00:22:04,800 --> 00:22:05,312
+Service
+
+211
+00:22:06,336 --> 00:22:12,480
+Good
+
+212
+00:22:12,736 --> 00:22:18,880
+A beacon of the access points and
+
+213
+00:22:19,136 --> 00:22:24,768
+I'm here
+
+214
+00:22:26,048 --> 00:22:32,192
+Ok to talk about stuff
+
+215
+00:22:32,448 --> 00:22:33,728
+Operating systems
+
+216
+00:22:40,384 --> 00:22:42,432
+Attack
+
+217
+00:22:42,688 --> 00:22:44,480
+What is a pipeline
+
+218
+00:22:44,992 --> 00:22:51,136
+What does it mean when a pipeline stalls a pipeline you remember is when you have multiple
+
+219
+00:22:51,392 --> 00:22:57,536
+Jacksons been executed simultaneously
+
+220
+00:22:57,792 --> 00:23:03,936
+The hardware store
+
+221
+00:23:04,192 --> 00:23:05,984
+Information missing for the next one
+
+222
+00:23:06,240 --> 00:23:08,288
+Speculative execution
+
+223
+00:23:08,544 --> 00:23:12,128
+What you don't know for certain what the next instruction will be
+
+224
+00:23:12,640 --> 00:23:14,688
+But you start executing one anyway
+
+225
+00:23:14,944 --> 00:23:18,272
+Throughout the results or get to keep them
+
+226
+00:23:18,784 --> 00:23:24,416
+Even though assembly language is a very low level language
+
+227
+00:23:24,672 --> 00:23:29,536
+Still there's a language below that within the hardware which is microcode
+
+228
+00:23:30,560 --> 00:23:32,608
+The two basic
+
+229
+00:23:32,864 --> 00:23:39,008
+The basic memory techniques used by CPUs which is used for
+
+230
+00:23:39,264 --> 00:23:42,336
+And registers which news for current working
+
+231
+00:23:44,896 --> 00:23:45,920
+Female cat
+
+232
+00:23:46,176 --> 00:23:52,320
+Memory management more broadly we look at how you can have multiple programs sharing memory
+
+233
+00:23:52,832 --> 00:23:58,976
+In particular swapping and the first entire memory
+
+234
+00:23:59,232 --> 00:24:02,816
+Footprint of one process take it out putting the next one
+
+235
+00:24:05,888 --> 00:24:08,960
+Using paging
+
+236
+00:24:09,984 --> 00:24:16,128
+If you willing to break down some of the functions that makes
+
+237
+00:24:16,384 --> 00:24:22,528
+Is it the memory if anything it wants to virtual memory
+
+238
+00:24:22,784 --> 00:24:24,064
+Everything is in memory
+
+239
+00:24:24,832 --> 00:24:26,880
+558 needs as it needs it
+
+240
+00:24:31,744 --> 00:24:37,888
+New computer data is effective going through a string you don't need to
+
+241
+00:24:38,144 --> 00:24:42,240
+Really in the next memory location or not
+
+242
+00:24:42,752 --> 00:24:48,896
+Virtual memory the next part of a string is probably not in the next physical location of memory
+
+243
+00:24:49,152 --> 00:24:55,296
+Page
+
+244
+00:24:55,552 --> 00:24:57,600
+This is just contiguous memory
+
+245
+00:25:04,512 --> 00:25:08,864
+Perform This mapping using a page table
+
+246
+00:25:09,888 --> 00:25:16,032
+And the pace Abel says we're in memory eats actual location is
+
+247
+00:25:16,288 --> 00:25:20,384
+Which is what the program sees the memory is looking like
+
+248
+00:25:21,408 --> 00:25:24,736
+Ok all this operating system start stuff
+
+249
+00:25:25,248 --> 00:25:30,112
+To use is another aspect of the memory hierarchy which is case
+
+250
+00:25:31,648 --> 00:25:36,000
+Again we're getting the memory from is not
+
+251
+00:25:42,656 --> 00:25:48,800
+A copy a local copy which is very fast Traxxas
+
+252
+00:25:49,056 --> 00:25:54,688
+Level 2 level 3 and then we get virtual memory
+
+253
+00:25:55,968 --> 00:25:59,040
+Look at processes and threads
+
+254
+00:25:59,296 --> 00:26:05,440
+Most of the course were talking about processes we used to process was the endpoint
+
+255
+00:26:05,696 --> 00:26:08,768
+What actually is
+
+256
+00:26:09,024 --> 00:26:11,840
+He is a bunch of
+
+257
+00:26:12,608 --> 00:26:18,752
+Face got things like what is the memory the content of the memory
+
+258
+00:26:19,008 --> 00:26:23,104
+What is the process
+
+259
+00:26:23,616 --> 00:26:28,480
+A process for also have at least 13 of execution
+
+260
+00:26:28,736 --> 00:26:33,344
+Pets instructions being executed what happens next we have next
+
+261
+00:26:33,856 --> 00:26:38,976
+Execution can have multiple threads
+
+262
+00:26:45,632 --> 00:26:51,776
+And it has its own programs
+
+263
+00:26:52,032 --> 00:26:52,544
+Decode
+
+264
+00:26:54,080 --> 00:26:56,896
+We'll see look at the difference between
+
+265
+00:26:57,152 --> 00:27:02,528
+Different types of thread execution
+
+266
+00:27:02,784 --> 00:27:05,088
+Will use a code
+
+267
+00:27:05,344 --> 00:27:09,184
+Administrator or root code looked at the kernel
+
+268
+00:27:09,440 --> 00:27:11,232
+Increasing levels of priority
+
+269
+00:27:13,024 --> 00:27:17,120
+We need to switch from one to the other using system calls
+
+270
+00:27:17,376 --> 00:27:23,520
+Anytime you want to read data from a file read from the keyboard write to the network anything
+
+271
+00:27:25,824 --> 00:27:31,968
+Can't be done directly by user process has to be done by a system call to the kernel
+
+272
+00:27:32,224 --> 00:27:34,016
+The privileges to do that
+
+273
+00:27:36,064 --> 00:27:42,208
+Ok that's all there is on second half
+
+274
+00:27:42,464 --> 00:27:48,608
+Ok hello everyone
+
+275
+00:27:48,864 --> 00:27:55,008
+That's not good with the content
+
+276
+00:27:55,264 --> 00:27:55,776
+Can't
+
+277
+00:27:56,288 --> 00:28:02,432
+You don't have to
+
+278
+00:28:02,688 --> 00:28:08,832
+Pay attention to what I'm saying here
+
+279
+00:28:09,088 --> 00:28:15,232
+Expected to know what is the Protocol and the strengths and drawbacks of delivery model
+
+280
+00:28:15,488 --> 00:28:21,632
+That's how it is here and internet applications
+
+281
+00:28:21,888 --> 00:28:28,032
+We have already taqaza four types of application layer protocols the first one is
+
+282
+00:28:28,288 --> 00:28:34,432
+Http FTP SMTP DNS
+
+283
+00:28:34,688 --> 00:28:40,832
+Teacher notes how do they work and what are they and how
+
+284
+00:28:41,088 --> 00:28:47,232
+Communications between a fall for each of the following http
+
+285
+00:28:47,488 --> 00:28:53,632
+If you open the webpage then toward
+
+286
+00:28:53,888 --> 00:29:00,032
+What kind of Hep A TCP connections will be insulated and
+
+287
+00:29:00,288 --> 00:29:04,640
+How many of technicians are related to independence of the connection
+
+288
+00:29:05,152 --> 00:29:11,296
+And for FTP you are you Maori
+
+289
+00:29:17,952 --> 00:29:24,096
+Call Dad's each after command in the control connection how to how
+
+290
+00:29:24,352 --> 00:29:30,496
+Each commands work but then pulled up for loop commands are you
+
+291
+00:29:30,752 --> 00:29:36,896
+How many connections will be opened and how does that connect a connection
+
+292
+00:29:37,152 --> 00:29:41,248
+Work Pokemon
+
+293
+00:29:43,552 --> 00:29:49,696
+Hangouts 50 which is useful
+
+294
+00:29:49,952 --> 00:29:56,096
+Email then so you may let you know that's how I am where we wants to thank you email to
+
+295
+00:29:56,352 --> 00:30:02,496
+Baba how to process work samples in Perth to make a email and answer put in
+
+296
+00:30:02,752 --> 00:30:08,896
+SMTP server and how does email to push through the output to the
+
+297
+00:30:09,152 --> 00:30:15,296
+SMTP service of Bob and then I can pop get this email from the server
+
+298
+00:30:15,552 --> 00:30:16,064
+Power
+
+299
+00:30:16,320 --> 00:30:22,464
+Alice all you need to know dad's up the format of the email message
+
+300
+00:30:22,720 --> 00:30:28,864
+And then some also know that the common Ponds difference between SMTP
+
+301
+00:30:29,120 --> 00:30:30,144
+EPL
+
+302
+00:30:32,192 --> 00:30:38,336
+You made it you know that
+
+303
+00:30:38,592 --> 00:30:44,736
+Dingo camper white and what's the difference between between them and how
+
+304
+00:30:44,992 --> 00:30:49,600
+How is the DNS server require kit work
+
+305
+00:30:50,112 --> 00:30:56,256
+And the second part of the first place recommend you focus on that
+
+306
+00:30:56,512 --> 00:31:02,656
+Gold Coast beauty people
+
+307
+00:31:02,912 --> 00:31:09,056
+Call Nicole
+
+308
+00:31:09,312 --> 00:31:15,456
+Which is Channel 10 that's why it's not only useful
+
+309
+00:31:15,712 --> 00:31:21,856
+At transport layer you can be upright you use for any two layer that you may lead
+
+310
+00:31:22,112 --> 00:31:28,256
+And answer you evaluate your expert you understand how to apply this a principal tricky science
+
+311
+00:31:28,512 --> 00:31:32,096
+ADI Powder Coating for the application
+
+312
+00:31:32,608 --> 00:31:38,752
+Are pocket Mario sorry not notification and PCP
+
+313
+00:31:39,008 --> 00:31:45,152
+Streaming past TCP communication TCP flow control and TCP congestion control
+
+314
+00:31:45,408 --> 00:31:46,688
+Here
+
+315
+00:31:46,944 --> 00:31:53,088
+Press
+
+316
+00:31:53,344 --> 00:31:59,488
+Difference between transport layer protocol and and naturally a protocol
+
+317
+00:31:59,744 --> 00:32:05,888
+Understand that OK what's the main purpose and
+
+318
+00:32:06,144 --> 00:32:10,240
+Multiplexing and demultiplexing
+
+319
+00:32:11,264 --> 00:32:17,408
+You need to understand what you said ok and what
+
+320
+00:32:17,664 --> 00:32:22,784
+What is the soccer identifier indifference are protocol
+
+321
+00:32:23,808 --> 00:32:29,952
+And answer you need you also need to know that how does multiprocessing
+
+322
+00:32:30,208 --> 00:32:32,000
+Depressing work
+
+323
+00:32:34,048 --> 00:32:40,192
+A new tpu udp you may need to know that
+
+324
+00:32:40,448 --> 00:32:46,592
+Rocky and udp and customs you need to understand how to calculate GDP
+
+325
+00:32:46,848 --> 00:32:52,992
+That's all you need to know that I'm after utep
+
+326
+00:32:53,248 --> 00:32:57,088
+Alcohol sorry
+
+327
+00:32:57,344 --> 00:33:03,488
+Frankie are you also let you know how the day what is the process for sending a message over you
+
+328
+00:33:03,744 --> 00:33:08,608
+54 my Facebook
+
+329
+00:33:09,888 --> 00:33:16,032
+We have different type of article took over from Waurn Ponds
+
+330
+00:33:16,288 --> 00:33:22,432
+02350 and we also introduce various at 2:34
+
+331
+00:33:22,688 --> 00:33:28,832
+Problems at the deciding.
+
+332
+00:33:29,088 --> 00:33:35,232
+What what is the process for introducing the custom in the city and what is the first
+
+333
+00:33:35,488 --> 00:33:41,632
+Atka ganga Kata in the city
+
+334
+00:33:41,888 --> 00:33:48,032
+What what that's are the Wimpy sequence number used and why will it stop and wait for the mechanic Gumtree
+
+335
+00:33:48,288 --> 00:33:54,432
+Entity sign you may you may need to know
+
+336
+00:33:54,688 --> 00:34:00,832
+Oldest things and answer your us pet you'll be able to at the sides
+
+337
+00:34:01,088 --> 00:34:05,952
+Rtt in different scenarios
+
+338
+00:34:07,232 --> 00:34:13,376
+And a PS3 menu focus on three parts rtcp coming
+
+339
+00:34:13,632 --> 00:34:19,776
+Medication which is St Kilda Ponsonby a communication site
+
+340
+00:34:20,032 --> 00:34:26,176
+Believe that you are very clear about this how does steep the communicator work
+
+341
+00:34:26,432 --> 00:34:32,576
+TCP full control you need to know that what is the purpose of purple control what is
+
+342
+00:34:32,832 --> 00:34:38,976
+The paper idea info control define and of course you also let you know that
+
+343
+00:34:39,232 --> 00:34:43,328
+How does the typing window protocol in TCP full control work
+
+344
+00:34:44,096 --> 00:34:50,240
+And finally in congestion control of course you also let you know them
+
+345
+00:34:50,496 --> 00:34:56,640
+The purpose of congestion control and how does a
+
+346
+00:34:56,896 --> 00:35:03,040
+Congestion control Solstice Greek restaurants near the centre
+
+347
+00:35:04,064 --> 00:35:04,832
+Obsolete
+
+348
+00:35:05,600 --> 00:35:07,392
+Upside
+
+349
+00:35:07,904 --> 00:35:14,048
+App that centre perceived electrical just inside of stuff after sex
+
+350
+00:35:14,304 --> 00:35:20,448
+Commonwealth out of us which is what is the fastest smithing is and answer
+
+351
+00:35:20,704 --> 00:35:26,848
+Algorithms in PCB for controls livestock address
+
+352
+00:35:27,104 --> 00:35:33,248
+At all this tree algorithm follow independent
+
+353
+00:35:33,504 --> 00:35:39,648
+Direct better and collaborate to handle the TCP full control
+
+354
+00:35:39,904 --> 00:35:46,048
+Swap paint Bittersweet Chang with between each of the three algorithms here
+
+355
+00:35:46,304 --> 00:35:52,448
+You may need to know that I'm different you may need to understand ok
+
+356
+00:35:52,704 --> 00:35:57,056
+At this time stands out what if the size of the congestion windows
+
+357
+00:35:57,312 --> 00:36:03,456
+I'm here in the 1800 mi mi.
+
+358
+00:36:03,712 --> 00:36:09,856
+Secondment on our rent standard drop down 2221
+
+359
+00:36:10,624 --> 00:36:16,768
+And also you let you know that somehow
+
+360
+00:36:17,024 --> 00:36:23,168
+How does the algorithms watch that switch between each other for example when when are the fast
+
+361
+00:36:23,424 --> 00:36:29,568
+Switch transmission event happens what will the algorithm spirit and then they how
+
+362
+00:36:29,824 --> 00:36:34,176
+How is the ratio of the congestion Windows is updated
+
+363
+00:36:34,944 --> 00:36:41,088
+Ok that's in the First
+
+364
+00:36:41,344 --> 00:36:47,488
+Rick and answer in the Indus what week are we also
+
+365
+00:36:47,744 --> 00:36:53,888
+How far from consolidation town specification time is the same as the letter time in the email
+
+366
+00:36:54,144 --> 00:37:00,288
+DMT 6.23 and the NZ office of local intersection
+
+367
+00:37:00,544 --> 00:37:01,824
+Funky spex
+
+368
+00:37:02,592 --> 00:37:06,688
+The meeting room Gap the meeting room sorry
+
+369
+00:37:11,296 --> 00:37:12,832
+Easter
+
+370
+00:37:16,672 --> 00:37:18,464
+Ups
+
+371
+00:37:18,976 --> 00:37:25,120
+OK anyway I'm finally it so you are encouraged to do the FPS because you're free
+
+372
+00:37:25,376 --> 00:37:31,520
+Feedback is really important for us that can help us to improve our tea tree
+
+373
+00:37:31,776 --> 00:37:37,920
+I'm sorry if you suck you and if you have any questions you can ask
+
+374
+00:37:43,808 --> 00:37:44,576
+Yes
+
+375
+00:37:51,488 --> 00:37:57,632
+What is the address of sensitive information you say how does it find it
+
+376
+00:38:09,152 --> 00:38:15,296
+Not quite following the question you're saying is the truth security flaw the fact that you know where securedata is
+
+377
+00:38:18,624 --> 00:38:24,000
+The fact that you can use the address to look it up yes that is the true security flaw so
+
+378
+00:38:24,512 --> 00:38:30,656
+You can you can guess where secure data is stored but it's really hard big is a gigabyte
+
+379
+00:38:30,912 --> 00:38:37,056
+So unless you understand the code which you know it's looking
+
+380
+00:38:37,312 --> 00:38:43,456
+Speak to one help you much
+
+381
+00:38:44,736 --> 00:38:50,880
+By examining source code operating system then it sort of public fairly often where it stores things
+
+382
+00:38:51,392 --> 00:38:57,536
+Then you can read stuff you're not supposed to be able to read that's the real weakness a real strength inspector the real security weakness
+
+383
+00:39:00,864 --> 00:39:07,008
+After the lecture question
+
+384
+00:39:10,592 --> 00:39:11,360
+Yes
+
+385
+00:39:21,088 --> 00:39:25,696
+It's all relevant
+
+386
+00:39:25,952 --> 00:39:32,096
+It's not it's not a whole lot of time studying
+
+387
+00:39:32,352 --> 00:39:38,496
+The main reason for having waisake particular 2
+
+388
+00:39:39,008 --> 00:39:41,568
+For the second project so
+
+389
+00:39:41,824 --> 00:39:47,968
+It's important to note the basic ideas that exist and a useful and suchlike
+
+390
+00:39:48,224 --> 00:39:54,368
+Where do you click within the wireshark Windows 10 and such and such
+
+391
+00:39:57,696 --> 00:39:58,720
+Are the questions
+
+392
+00:40:15,872 --> 00:40:20,736
+Bgp doesn't advertise internal things yes
+
+393
+00:40:21,504 --> 00:40:27,648
+No no it doesn't advertise paid for them never ever Advertiser
+
+394
+00:40:27,904 --> 00:40:28,928
+Internal parts
+
+395
+00:40:29,184 --> 00:40:35,328
+Bgp is all about the next day
+
+396
+00:40:35,584 --> 00:40:40,960
+Compare how the ISS get the data from one end of themselves to the other end of themselves
+
+397
+00:40:41,216 --> 00:40:45,056
+That information is never never said
+
+398
+00:40:45,824 --> 00:40:51,968
+You never tell anybody else to pass through yourself all I know is
+
+399
+00:40:52,224 --> 00:40:58,368
+If you're connected to know Isa and ASB an essay is your customer
+
+400
+00:41:00,416 --> 00:41:05,792
+Daniel to tell ASB how to get to SA
+
+401
+00:41:12,704 --> 00:41:13,472
+Is that right
+
+402
+00:41:16,288 --> 00:41:22,432
+During customer I suppose you would because
+
+403
+00:41:22,688 --> 00:41:28,832
+That's actually getting paid for
+
+404
+00:41:29,088 --> 00:41:34,720
+Is it connected to your customer
+
+405
+00:41:35,232 --> 00:41:36,768
+You tell
+
+406
+00:41:37,024 --> 00:41:41,888
+How to get to a you tell everybody how to get away because you get paid for traffic goes to and from a
+
+407
+00:41:42,912 --> 00:41:49,056
+How to get to Beacon how to get to C
+
+408
+00:41:49,312 --> 00:41:50,848
+The other one through yourself
+
+409
+00:41:51,104 --> 00:41:55,967
+Because if you carry date of for them that you acting as a Transit ISP
+
+410
+00:41:56,223 --> 00:42:00,831
+You're not getting paid for that all so you wouldn't think they cost
+
+411
+00:42:02,111 --> 00:42:03,391
+The question
+
+412
+00:42:07,231 --> 00:42:08,511
+I beg your pardon
+
+413
+00:42:10,047 --> 00:42:14,399
+Can you read out the connections that would turn someone into a customer
+
+414
+00:42:14,655 --> 00:42:16,191
+Other questions
+
+415
+00:42:21,055 --> 00:42:27,199
+Question about part 1 questions about the structure of the exam questions about ideal study
+
+416
+00:42:27,455 --> 00:42:30,015
+Christian resources
+
+417
+00:42:34,623 --> 00:42:36,159
+Still got 10 minutes
+
+418
+00:42:38,463 --> 00:42:40,767
+10 minutes 149 by Mum watch
+
+419
+00:42:42,047 --> 00:42:46,911
+Computer ok with between 6 and 10 minutes question
+
+420
+00:42:53,311 --> 00:42:59,455
+Yes yes you need to actually email Eliza
+
+421
+00:42:59,711 --> 00:43:03,295
+40 Tales of the algorithm smoothie understand how they work
+
+422
+00:43:08,671 --> 00:43:09,439
+Yes
+
+423
+00:43:19,423 --> 00:43:25,567
+So like I said they no longer answer questions there's nothing we are expected to write a big chunk of code
+
+424
+00:43:25,823 --> 00:43:30,687
+Like I said what are the steps to setting up a socket
+
+425
+00:43:30,943 --> 00:43:37,087
+Respect that you would be able to tell us what system call is required for this so
+
+426
+00:43:37,343 --> 00:43:43,487
+Yes that sort of coding is assessable but you don't have to write a big a big thing to download a file or something
+
+427
+00:43:49,631 --> 00:43:51,423
+Just see for the subject
+
+428
+00:43:55,007 --> 00:43:55,775
+Yes
+
+429
+00:43:57,311 --> 00:43:57,823
+Yes
+
+430
+00:44:18,815 --> 00:44:24,959
+I will probably answer the letter just know what the basic things that need to be done
+
+431
+00:44:31,615 --> 00:44:33,151
+You need to do
+
+432
+00:44:36,735 --> 00:44:38,783
+I've got one other
+
+433
+00:44:39,039 --> 00:44:45,183
+Announcement / apology when I was reading through some of the things with things that I have been going to talk about
+
+434
+00:44:45,439 --> 00:44:51,583
+So I will upload a new version of this
+
+435
+00:44:51,839 --> 00:44:56,191
+Same thing as we didn't really cover the slides
+
+436
+00:45:23,839 --> 00:45:26,399
+So what was the example you gave
+
+437
+00:45:27,679 --> 00:45:31,263
+Creepy clock speed
+
+438
+00:45:32,543 --> 00:45:38,687
+That wasn't zone greatly in the lecture it was
+
+439
+00:45:38,943 --> 00:45:45,087
+Play more study more in the tutorial so yes I would expect that you would know the level of detail that was covered in the
+
+440
+00:45:45,343 --> 00:45:51,487
+Tutorial
+
+441
+00:45:51,743 --> 00:45:57,887
+That wireshark wireshark lab it was also something about
+
+442
+00:45:58,143 --> 00:46:03,007
+I think
+
+443
+00:46:03,263 --> 00:46:09,407
+That stuff is acceptable I won't be asking about killer but the actual networking
+
+444
+00:46:09,663 --> 00:46:12,991
+Contents
+
+445
+00:46:35,263 --> 00:46:41,407
+The final slides
+
+446
+00:46:41,663 --> 00:46:44,735
+Fine then
+
+447
+00:46:46,015 --> 00:46:51,135
+Nothing I said
+
+448
+00:46:53,951 --> 00:46:56,255
+Question
+
+449
+00:47:05,983 --> 00:47:09,055
+Nat and subnet
+
+450
+00:47:09,311 --> 00:47:14,943
+Very different is region of the address space
+
+451
+00:47:15,455 --> 00:47:18,271
+Been allocated to a network
+
+452
+00:47:18,527 --> 00:47:23,903
+So have a network master has more one Dixon it essentially
+
+453
+00:47:25,439 --> 00:47:26,719
+Matt is
+
+454
+00:47:26,975 --> 00:47:29,535
+Original
+
+455
+00:47:29,791 --> 00:47:35,935
+I'm not part of the network address is just one address that's too
+
+456
+00:47:36,191 --> 00:47:37,983
+Complete network
+
+457
+00:47:44,383 --> 00:47:50,527
+True of most of the material in those few lectures not really related at all
+
+458
+00:47:50,783 --> 00:47:56,927
+How many people would like a long explanation of how many people think they understand the difference between
+
+459
+00:47:58,207 --> 00:48:01,279
+Almond something
+
+460
+00:48:01,535 --> 00:48:04,351
+How many people think that I don't quite understand
+
+461
+00:48:11,263 --> 00:48:14,335
+Ok so
+
+462
+00:48:14,847 --> 00:48:20,991
+Nat is expanding
+
+463
+00:48:21,247 --> 00:48:22,527
+Address
+
+464
+00:48:22,783 --> 00:48:28,927
+Find a single address
+
+465
+00:48:29,951 --> 00:48:34,559
+Where is a network
+
+466
+00:48:34,815 --> 00:48:40,959
+State of address
+
+467
+00:48:41,215 --> 00:48:47,359
+3.0 binary tree
+
+468
+00:48:47,615 --> 00:48:52,991
+Going down is one of those trees
+
+469
+00:49:00,415 --> 00:49:04,255
+Pretend tree
+
+470
+00:49:05,023 --> 00:49:07,583
+Is actually a whole bunch of
+
+471
+00:49:09,887 --> 00:49:16,031
+It's like
+
+472
+00:49:16,287 --> 00:49:22,431
+Maps to whole network behind the portal
+
+473
+00:49:24,735 --> 00:49:28,319
+Answer the question
+
+474
+00:49:40,863 --> 00:49:42,143
+Annette
+
+475
+00:49:42,399 --> 00:49:48,543
+That is really a process translation so with that
+
+476
+00:49:48,799 --> 00:49:54,943
+Network has
+
+477
+00:49:55,199 --> 00:50:01,343
+Location
+
+478
+00:50:02,367 --> 00:50:08,511
+What's on the other side difference
+
+479
+00:50:08,767 --> 00:50:12,607
+Communicate with
+
+480
+00:50:14,911 --> 00:50:21,055
+So you can compete with the public Network at all but when you want to go
+
+481
+00:50:25,151 --> 00:50:31,295
+And that will do the translation of the address in the port and everything all look like a single Point
+
+482
+00:50:31,551 --> 00:50:32,575
+Does doing a lot of stuff
+
+483
+00:50:33,343 --> 00:50:39,487
+Inside we're just a whole lot of individuals
+
+484
+00:50:39,743 --> 00:50:42,559
+Time for half a question
+
+485
+00:50:45,375 --> 00:50:47,423
+Yes
+
+486
+00:50:47,935 --> 00:50:54,079
+Do you need to know any specific my crops no you don't you need to know the concept of
+
+487
+00:50:54,335 --> 00:51:00,479
+Realise
+
+488
+00:51:00,735 --> 00:51:06,879
+But different machines have different
+
+489
+00:51:07,135 --> 00:51:13,279
+Ok that's all the time for
+
+490
+00:51:13,535 --> 00:51:19,679
+Back and good luck
